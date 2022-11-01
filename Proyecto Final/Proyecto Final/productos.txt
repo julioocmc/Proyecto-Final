@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "Malta",
+    "descripcion": "Bebida refrescante",
+    "codigo": 57455,
+    "foto": "https://www.dimeiggs.cl/media/catalog/product/cache/2/image/600x600/9df78eab33525d08d6e5fb8d27136e95/l/1/l111511_a.jpg",
+    "precio": 10,
+    "stock": 20,
+    "id": 2,
+    "timeStamp": 1665033641261
+  },
+  {
+    "nombre": "Doritos",
+    "descripcion": "El snack ideal",
+    "codigo": 57455,
+    "foto": "https://www.dimeiggs.cl/media/catalog/product/cache/2/image/600x600/9df78eab33525d08d6e5fb8d27136e95/l/1/l111511_a.jpg",
+    "precio": 10,
+    "stock": 20,
+    "id": 1,
+    "timeStamp": 1665033622401
+  },
+  {
+    "nombre": "Chicle",
+    "descripcion": "El mas duradero",
+    "codigo": 57457,
+    "foto": "https://www.dimeiggs.cl/media/catalog/product/cache/2/image/600x600/9df78eab33525d08d6e5fb8d27136e95/l/1/l111511_a.jpg",
+    "precio": 10,
+    "stock": 10,
+    "timeStamp": 1665033753175,
+    "id": 3
+  }
+]

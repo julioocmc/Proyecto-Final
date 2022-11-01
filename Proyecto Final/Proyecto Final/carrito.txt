@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "timeStamp": 1665034518036,
+    "productos": [
+      {
+        "nombre": "Malta",
+        "descripcion": "Bebida refrescante",
+        "codigo": 57455,
+        "foto": "https://www.dimeiggs.cl/media/catalog/product/cache/2/image/600x600/9df78eab33525d08d6e5fb8d27136e95/l/1/l111511_a.jpg",
+        "precio": 10,
+        "stock": 20,
+        "id": 2,
+        "timeStamp": 1665033641261
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "timeStamp": 1665034505133,
+    "productos": []
+  }
+]
