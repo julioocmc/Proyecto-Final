@@ -6,7 +6,7 @@ import CarritoModel from '../Proyecto Final/models/CartModel.js'
 
 export default class Carrito {
 	constructor() {
-		this.url = "mongodb+srv://Apizarro:darbeta12@cluster0.ho8uwm4.mongodb.net/?retryWrites=true&w=majority";
+		this.url = "mongodb+srv://Julio:12345678Coder@cluster0.ho8uwm4.mongodb.net/?retryWrites=true&w=majority";
 		this.mongodb = mongoose.connect
 		this.producto = new Producto();
 		//this.carritos = [];
